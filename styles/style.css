@@ -1,0 +1,57 @@
+body{
+    background-color:cornflowerblue;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    background-color: lightcoral;
+    text-align: center;
+}
+
+#Home {
+    background-color: lightgoldenrodyellow;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: "copperplate", "papyrus", Fantasy, serif;
+
+}
+#content{
+    max-width: 90%;
+    background-color: snow;
+    margin-left: auto;
+    margin-right: auto;
+}
+#photo-header{
+    text-align:center;
+}
+#photo {
+    display: block;;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+#photo2 {
+    display: block;;
+    margin-left: 20%;
+    margin-right: auto;
+    width: 20%;
+}
+.container{
+    height: 500px;
+    background-color:snow;
+    position:relative ;
+}
+
+#Computing {
+    display: block;;
+    top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
